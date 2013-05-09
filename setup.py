@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='cmsplugin_syntax_highlight',
-    version='0.1.0',
+    version='0.1.3',
     author='Norm Murrin',
     author_email='norman.murrin@gmail.com',
     url='http://github.com/nmurrin',
