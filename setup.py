@@ -15,12 +15,6 @@ setup(
                   'for easy integration with SyntaxHighlighter.',
     long_description = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     packages=find_packages(),
-    package_data={
-        'cmsplugin_syntax_highlight': [
-            'static/cmsplugin_syntax_highlight/*',
-            'templates/cmsplugin_syntax_highlight/*',
-        ]
-    },
     classifiers = [
         'Development Status :: 3 - Alpha',
         'Environment :: Plugins',
