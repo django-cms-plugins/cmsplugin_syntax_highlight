@@ -17,6 +17,13 @@ http://github.com/nmurrin/cmsplugin_syntax_highlight
 cmsplugin_syntax_highlight requires SyntaxHighlighter available at
 http://alexgorbatchev.com/SyntaxHighlighter/.
 
+Installation
+============
+
+#. `pip install cmsplugin_syntax_highlight`
+#. Add `'cmsplugin_syntex_highlight'` to `INSTALLED_APPS`
+#. Run `syncdb`
+
 Configuration
 =============
 
