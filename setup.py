@@ -18,6 +18,7 @@ setup(
     package_data={
         'cmsplugin_syntax_highlight': [
             'static/cmsplugin_syntax_highlight/*',
+            'templates/cmsplugin_syntax_highlight/*',
         ]
     },
     classifiers = [
