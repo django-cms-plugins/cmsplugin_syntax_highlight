@@ -28,7 +28,7 @@ Configuration
 =============
 
 #. Indicate the location of SyntaxHighlighter in your settings file with
-   SYNTAX_HIGHLIGHTER = '/medial/syntaxhighlighter/'.  Indicate the actual
+   SYNTAX_HIGHLIGHTER = '/media/syntaxhighlighter/'.  Indicate the actual
    location in your project.
 
 #. There are templates included for the programming languages that I commonly
