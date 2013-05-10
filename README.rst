@@ -21,7 +21,7 @@ Installation
 ============
 
 #. `pip install cmsplugin_syntax_highlight`
-#. Add `'cmsplugin_syntex_highlight'` to `INSTALLED_APPS`
+#. Add `'cmsplugin_syntax_highlight'` to `INSTALLED_APPS`
 #. Run `syncdb`
 
 Configuration
